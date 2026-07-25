@@ -1,0 +1,35 @@
+# Complir
+
+> Complir is the AI infrastructure for product compliance. Our AI agents map product data, analyse compliance risks, generate documentation and track regulations across every market you sell in - covering GPSR, ESPR, EPR, REACH and 100+ other regulations.
+
+## Guides
+
+- [EU Toy Safety Regulation: What Changed and When It Applies](https://www.complir.io/resources/guides/eu-toy-safety-regulation-guide): The new EU Toy Safety Regulation is in force. What changed vs the Toy Safety Directive, deadlines to 2030, and the toy Digital Product Passport explained.
+- [EUDR Compliance: Requirements and the 2026 Deadline](https://www.complir.io/resources/guides/eudr-compliance-guide): What the EU Deforestation Regulation requires, who must comply from 30 December 2026, and how to prepare your due diligence process.
+- [Digital by Default: What Omnibus IV Means for Product Compliance](https://www.complir.io/resources/guides/omnibus-iv-digital-by-default): The EU agreed a 'digital by default' approach to product compliance under Omnibus IV. Here's what changes, and why it's really about data, not documents.
+- [UKCA Marking: A Practical Guide for Manufacturers Selling in Great Britain](https://www.complir.io/resources/guides/ukca-marking-guide): UKCA marking explained: when you actually need it, when CE is fine for Great Britain, Northern Ireland rules, and how to comply. Updated for 2026.
+- [RoHS Compliance: A Practical Guide for Manufacturers](https://www.complir.io/resources/guides/rohs-compliance-guide): RoHS compliance explained: the 10 restricted substances, the documentation you need, the CE marking link, and how to stay compliant at scale.
+- [PPWR Explained: What the EU's New Packaging Regulation Means for Product Companies](https://www.complir.io/resources/guides/ppwr-explained): PPWR (EU Regulation 2025/40) applies from 12 August 2026. Here's what product companies need to know: scope, requirements, timeline, and how to prepare.
+- [CE Marking Requirements: A Practical Guide for Product Companies](https://www.complir.io/resources/guides/ce-marking-requirements): What CE marking requires, which products it covers, how to assess conformity, and what changed in 2025–2026 – explained for product companies.
+- [REACH Compliance Explained: What Product Companies Actually Need to Do](https://www.complir.io/resources/guides/reach-compliance-guide): What REACH compliance really requires – registration, SVHCs, SCIP, Annex XVII, authorisation – explained for quality and regulatory teams.
+- [Digital Product Passport (DPP): What It Is, Who Needs One, and When](https://www.complir.io/resources/guides/digital-product-passport-guide): The Digital Product Passport explained – what the EU DPP is, which products need one, when it applies, and how product companies should prepare.
+- [Extended Producer Responsibility (EPR) in the EU: A 2026 Guide for Product Companies](https://www.complir.io/resources/guides/extended-producer-responsibility-eu-guide): What EPR means for EU product companies in 2026: packaging, WEEE, batteries, textiles, obligations, schemes, and how to stay compliant across markets.
+- [ESPR Explained: What the Ecodesign for Sustainable Products Regulation Means for Your Business](https://www.complir.io/resources/guides/espr-ecodesign-regulation-explained): What is ESPR? Learn what the EU Ecodesign for Sustainable Products Regulation requires, which products are covered, key deadlines, and how to prepare.
+- [GPSR Compliance: The General Product Safety Regulation Explained (2026)](https://www.complir.io/resources/guides/gpsr-compliance-guide-product-companies): What the EU General Product Safety Regulation (GPSR) means for your products: key requirements, responsible person rules, deadlines, and how to comply.
+- [How EU's Green Deal is transforming product compliance](https://www.complir.io/resources/guides/eu-green-deal-compliance): The European Green Deal is reshaping how businesses design, manufacture, and manage products across the EU. Here's what it means for product compliance, from ESPR to REACH.
+
+## Case Studies
+
+- [A child must never come to harm!](https://www.complir.io/resources/case-studies/konges-sloejd-partnership): When your entire business revolves around products for children and is built on responsible production and high standards of quality and function, compliance is a matter of life and death. That is why Konges Sløjd chose to partner with Complir. (Customer: Konges Sløjd, Children's Products & Fashion, Copenhagen, Denmark)
+- [Flying Tiger Copenhagen leads the way with AI-first product compliance](https://www.complir.io/resources/case-studies/flying-tiger-compliance): Flying Tiger Copenhagen launches around 500 new products every month across 44 markets and 20 languages. With Complir's AI-driven compliance solution, Flying Tiger Copenhagen gains a crucial tool. (Customer: Flying Tiger Copenhagen, Retail & Consumer Goods, Copenhagen, Denmark)
+
+## Research
+
+- [What's hiding inside cosmetics sold on Temu?](https://www.complir.io/resources/research/temu-cosmetics-study): We analyzed 600 cosmetic products sold on Temu and found that 93% pose medium to high chemical risk. Here's what our AI-powered analysis uncovered.
+
+## Links
+
+- [Homepage](https://www.complir.io)
+- [Resources](https://www.complir.io/resources)
+- [Contact](https://www.complir.io/contact)
+- [Full content for LLMs](https://www.complir.io/llms-full.txt)

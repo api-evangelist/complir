@@ -1,0 +1,14 @@
+{
+  "repo": "complir",
+  "feeds": [
+    {
+      "source": "https://www.complir.io/contact",
+      "feed_url": "https://www.complir.io/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-07-20T13:31:34Z"
+}

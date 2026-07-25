@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.complir.io/.well-known/
+host: https://www.complir.io
+documents:
+- path: /.well-known/security.txt          # RFC 9116
+  status: 200
+  file: complir-security.txt
+- path: /.well-known/openid-configuration   # OIDC discovery
+  status: 404
+- path: /.well-known/oauth-authorization-server  # RFC 8414
+  status: 404
+- path: /.well-known/api-catalog            # RFC 9727
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  Only /.well-known/security.txt is published. The apex complir.io 308-redirects
+  to www.complir.io; app.complir.io is the authenticated application host and
+  returns login redirects for all discovery paths. No OIDC/OAuth discovery
+  documents are exposed on the public marketing host.

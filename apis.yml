@@ -1,8 +1,32 @@
 aid: complir
 name: Complir
-description: Complir is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Complir is the AI infrastructure for product compliance, described by the
+  company as "Vanta for physical products." Its AI agents map product data,
+  analyse compliance risks, generate audit-ready documentation, and track
+  regulatory changes across every market a brand sells in - covering GPSR,
+  ESPR, EPR, REACH, RoHS, PPWR, EUDR, CE/UKCA marking, Digital Product
+  Passports and 100+ other frameworks across 40+ markets. The platform maps
+  each SKU to its regulatory requirements, produces translations, labels,
+  warnings, declarations of conformity and technical files, verifies marketing
+  claims, and offers native Adobe Illustrator/InDesign plugins plus a natural
+  language interface for querying compliance data. Founded in 2024 (Gustav
+  Bang, Marc Kaa Brejner, Tine Kuhnel) and part of Y Combinator's Spring 2026
+  batch, Complir monitors 100,000+ products for international retailers
+  including Flying Tiger Copenhagen, Konges Sloejd, Matas and COOP.
 url: https://raw.githubusercontent.com/api-evangelist/complir/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.complir.io/videos/hero-poster.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +35,53 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Compliance
+- Regulatory Technology
+- Product Compliance
+- Retail
+- Artificial Intelligence
+- Sustainability
+- ESG
 apis: []
+common:
+- type: VulnerabilityDisclosure
+  url: security/complir-vulnerability-disclosure.yml
+- type: Security
+  url: well-known/complir-security.txt
+- type: DomainSecurity
+  url: security/complir-domain-security.yml
+- type: Website
+  url: https://www.complir.io
+- type: Login
+  url: https://app.complir.io/
+- type: Support
+  url: https://www.complir.io/contact
+- type: Blog
+  url: https://www.complir.io/resources
+- type: TermsOfService
+  url: https://www.complir.io/legal/terms
+- type: PrivacyPolicy
+  url: https://www.complir.io/legal/privacy
+- type: GitHubOrganization
+  url: https://github.com/complir
+- type: StatusPage
+  url: https://complir.statuspage.io
+- type: SecurityTxt
+  url: well-known/complir-security.txt
+- type: WellKnown
+  url: well-known/complir-well-known.yml
+- type: LLMsTxt
+  url: llms/complir-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
